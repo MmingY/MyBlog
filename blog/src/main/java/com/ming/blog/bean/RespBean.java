@@ -7,7 +7,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-@AllArgsConstructor
+//@AllArgsConstructor
 public class RespBean {
 
     public RespBean(String status, String msg) {
